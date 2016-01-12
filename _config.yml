@@ -1,0 +1,28 @@
+name: Chris McCargar
+favicon: null
+layout_spectrum: 0.02324214787222445
+typography_spectrum: 0.821913368999958
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5744650142733008
+  lightness: 0.3895674410741776
+  saturation: 0.5331406695768237
+  rhythmicContrast: 0.935201522661373
+purpose: []
